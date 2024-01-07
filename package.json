@@ -11,7 +11,7 @@
   ],
   "author": "Simone Taeggi",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "tailwindcss": "^3.4.1"
   }
 }
