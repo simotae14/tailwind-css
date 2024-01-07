@@ -10,5 +10,8 @@
     "tailwind"
   ],
   "author": "Simone Taeggi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  }
 }
